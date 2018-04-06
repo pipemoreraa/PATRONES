@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComponenteVisual">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorador">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAEAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Auto">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAFAAAAAAAEAAAAAAAACAIAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoradorMP3">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoradorAireAcondicionado">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoradorArosLujo">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoradorAsientosCuero">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Principal.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

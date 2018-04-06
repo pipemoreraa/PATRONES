@@ -1,0 +1,5 @@
+﻿  Principal.cpp
+c:\users\pipem\desktop\eif-204\tareas morales\tara - autos - patron decorador\principal.cpp(63): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\pipem\desktop\eif-204\tareas morales\tara - autos - patron decorador\principal.cpp(81): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\pipem\desktop\eif-204\tareas morales\tara - autos - patron decorador\principal.cpp(99): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Tara - Autos - Patron Decorador.vcxproj -> C:\Users\pipem\Desktop\EIF-204\Tareas Morales\Tara - Autos - Patron Decorador\Debug\Tara - Autos - Patron Decorador.exe
